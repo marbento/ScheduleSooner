@@ -1,4 +1,4 @@
-# ScheduleSooner: AI-Powered Schedule Maker
+# ScheduleSooner: AI-Powered Schedule Maker 🧠
 ScheduleSooner is a website made for OU students who want to build a schedule faster, and who want to prioritize how their time will be utilized. By using our custom AI technology, this product will analyze your preferred days, times, professors, class locations, and time gaps, maximizing a student’s workflow and putting them on the path to success. Our software also ensures the classes it schedules you for are part of your degree program and recommends classes based on your degree plan, facilitating your ability to meet requirements without the added confusion. With our user friendly design you can expect fast and easy schedule making that is easy to edit or integrate directly to your class registration!
 
 ## Features 
@@ -8,7 +8,7 @@ ScheduleSooner is a website made for OU students who want to build a schedule fa
 
 
 ## Getting Started
-ScheduleSooner will be implemented as a website, so no installation needed. Simply log onto ScheduleSooner.com and complete the following. 
+> ScheduleSooner will be implemented as a website, so no installation needed. Simply log onto ScheduleSooner.com and complete the following. 
 * **Sign-Up**: Create an account on ScheduleSooner using your OU email address. 
 * **Browse Class Options**: Get a general idea of how you want your semester schedule to look. Go to ClassNav and make note of required courses you’ll need this semester. Make note of desired (or undesired) professors. Plan which days of the week and time-slots fit best with your schedule. 
 * **Start Chatting**:
